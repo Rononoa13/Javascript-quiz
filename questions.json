@@ -1,0 +1,27 @@
+[
+    {
+        "question": "The tallest building in the world is located in which city?",
+        "option": ["Bhutan", "Nepal (Dharahara)", "None", "Burj Khalifa"],
+        "ans": 4
+      },
+      {
+        "question": "Name the longest river in the UK.",
+        "option": ["River Karnali", "BhoteKoshi", "River Severn", "None"],
+        "ans": 3
+      },
+      {
+        "question": "What is the capital city of Nepal?",
+        "option": ["China", "Russia", "USA", "Kathmandu"],
+        "ans": 4
+      },
+      {
+        "question": "How many hearts does an octopus have?",
+        "option": ["1", "2", "3", "4"],
+        "ans": 3
+      },
+      {
+        "question": "A screwdriver cocktail is orange juice, ice and which spirit?",
+        "option": ["Vodka", "Rum", "Whisky", "Gin"],
+        "ans": 1
+      }
+]
